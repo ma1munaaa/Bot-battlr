@@ -33,7 +33,7 @@ npm start
 
 3. The app will fetch bot data from the API and display it on the page. A loader will be shown while the data is loading.
 
-6. To delete a transaction, click on the "Delete" button next to the transaction you want to remove.
+6. To delete a bot, click on the "Delete" button next to the bot you want to remove.
 
 ## License
 
